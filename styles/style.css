@@ -1,0 +1,139 @@
+div.planet{
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    display: inline-block;
+    margin-top: 30px;border: double;
+    border-width: 6px;
+    border-color: darkgray;
+
+}
+P.blocktext{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+
+}
+IMG.displayed{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+IMG.earth{
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.planet2{
+    background-color: black;
+    width: 500px;
+    height: 500px;
+    padding-top: 0;
+    float: left;
+    margin-right: 30px;
+    margin-top: 30px;
+    border: double;
+    border-width: 6px;
+    border-color: darkgray;
+
+}
+p.earthliest{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 10px;
+    margin: auto;
+    width: 30em;
+}h1.planet{
+     color: white;
+     font-family: fantasy;
+     font-size: 30px;
+     text-transform: uppercase;
+     text-align: center;
+     font-weight: 100;
+     text-shadow: 3px 5px 6px #0d71a7, -6px -7px 6px #134bbc;
+ }
+ div.intro{
+     background-color: black;
+     width: 100%;
+     height: 150px;
+     display: block;
+     margin: 0;
+     padding: 0;
+     border: double;
+     border-width: 6px;
+     border-color: darkgray;
+     
+ }
+ h1.text_intro{
+     color: white;
+     font-size: 80px;
+     font-family: "Noto Sans Old Italic";
+     display: block;
+     text-align: center;
+     text-shadow: 3px 5px 6px #d70000, -6px -7px 6px #cf1b1b;
+     padding: 0;
+     margin: 0;
+ }
+ div.mars{
+     background-color: black;
+     height: 500px;
+     width: 500px;
+     margin: auto;
+     display: inline-block;
+     margin-top: 30px;
+     align-items: center;
+     border: double;
+     border-width: 6px;
+     border-color: darkgray;
+
+ }
+ IMG.imars{
+     width: 450px;
+     height: 250px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ h1.text_mars{
+     color: white;
+     font-family: fantasy;
+     font-size: 30px;
+     text-transform: uppercase;
+     text-align: center;
+     font-weight: 100;
+     text-shadow: 3px 5px 6px #c4550a, -6px -7px 6px #b85616;
+ }
+ div.upiter{
+     background-color: black;
+     height: 500px;
+     width: 500px;
+     margin: auto;
+     display: inline-block;
+     margin-top: 30px;
+     margin-left: 30px;
+     border: double;
+     border-width: 6px;
+     border-color: darkgray;
+ }
+ h1.upiter_gl{
+     color: white;
+     font-family: fantasy;
+     font-size: 30px;
+     text-transform: uppercase;
+     text-align: center;
+     font-weight: 100;
+     text-shadow: 3px 5px 6px #6C9, -6px -7px 6px #D9FFA7;
+ }
+ body{
+background: url(../images/kosmos_fon_siniy_tochki_73340_1600x900.jpg);
+ }
